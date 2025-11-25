@@ -197,7 +197,8 @@
               "enum": [
                 "available",
                 "pending",
-                "sold"
+                "sold",
+                "upcoming"
               ]
             }
           }
