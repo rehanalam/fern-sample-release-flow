@@ -4,8 +4,8 @@ title: Fern Perstore Release Flow | Documentation
 navigation:
   - api: API Reference
     paginated: true
-  - page: custom guides
-    path: ./docs/pages/custom-guides.mdx
+  - page: custom guide 2
+    path: ./docs/pages/custom-guide-2.mdx
 colors:
   accentPrimary: '#ffffff'
   background: '#000000'
