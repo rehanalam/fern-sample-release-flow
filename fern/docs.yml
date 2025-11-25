@@ -4,6 +4,8 @@ title: Fern Perstore Release Flow | Documentation
 navigation:
   - api: API Reference
     paginated: true
+  - page: rehan
+    path: ./docs/pages/rehan.mdx
   - page: custom guides 4
     path: ./docs/pages/custom-guides-4.mdx
 colors:
