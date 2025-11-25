@@ -1,0 +1,9 @@
+instances:
+  - url: https://fern-perstore-release-flow.docs.buildwithfern.com
+title: Fern Perstore Release Flow | Documentation
+navigation:
+  - api: API Reference
+    paginated: true
+colors:
+  accentPrimary: '#ffffff'
+  background: '#000000'
